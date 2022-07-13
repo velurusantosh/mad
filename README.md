@@ -1,2 +1,0 @@
-# sample
-checking CI/CD
